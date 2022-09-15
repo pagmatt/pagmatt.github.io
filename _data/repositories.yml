@@ -1,0 +1,11 @@
+github_users:
+  - dominikstrb
+
+github_repos:
+  - RothkopfLab/lqg
+  - RothkopfLab/inverse-optimal-control
+  - mackelab/gp-maps-python
+  - JuliaPOMDP/PointBasedValueIteration.jl
+  - RothkopfLab/imgstats-frontiersin
+  - dominikstrb/manuscript-templates
+  - dominikstrb/brrr
