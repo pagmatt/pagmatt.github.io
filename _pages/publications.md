@@ -18,4 +18,3 @@ nav_order: 1
 </div>
 
 
-\* denotes shared first authorship
