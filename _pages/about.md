@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in the [Psychology of Information Processing group](https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp) at the [Centre for Cognitive Science](https://www.tu-darmstadt.de/cogsci/ccs/index.en.jsp), TU Darmstadt.
+I'm a PhD student in the [SIGNET group](https://signet.dei.unipd.it/) at the [Department of Information Engineering](https://www.dei.unipd.it/home-page) of the [University of Padova](https://www.unipd.it/).
 
-I am interested in probabilistic models of perception and action. While classical psychophysical experiments have largely focused on simple forced-choice decision-making using independent trials, there is a recent trend towards more naturalistic sequential tasks. To understand the uncertainties, intrinsic costs of behavior, and subjective internal models involved in these tasks, I use computational modeling techniques including inverse optimal control and Bayesian inference.
+I am interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on the performance evaluation of 5/6G communication networks, primarily using simulation tools. 
 
-[curriculum vitae](https://dominikstrb.github.io/assets/pdf/dominikstraub-cv.pdf)
+[curriculum vitae](https://dominikstrb.github.io/assets/pdf/cv.pdf)
