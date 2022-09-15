@@ -2,12 +2,11 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='https://www.pip.tu-darmstadt.de/ag_pip/index.en.jsp'>Psychology of Information Processing, TU Darmstadt</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -21,6 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a PhD student in the [SIGNET group](https://signet.dei.unipd.it/) at the [Department of Information Engineering](https://www.dei.unipd.it/home-page) of the [University of Padova](https://www.unipd.it/).
 
-I am interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on the performance evaluation of 5/6G communication networks, primarily using simulation tools. 
+I am interested in the modeling, analysis and design of cellular telecommunication networks. In particular, most of my research focuses on the performance evaluation of 5/6G communication networks, primarily using simulation tools such as [ns-3](https://www.nsnam.org/). 
+As part of my research endeavours I have been developing and maintaining [ns3-mmwave](https://github.com/nyuwireless-unipd/ns3-mmwave), an ns-3 module for simulating 5G networks.
 
-[curriculum vitae](https://dominikstrb.github.io/assets/pdf/cv.pdf)
+I like to spend my free time having aperitivos with my friends, weightlifting, playing the guitar and working on side projects :) 
+
+[curriculum vitae](https://pagmatt.github.io/assets/pdf/cv.pdf)
