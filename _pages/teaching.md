@@ -7,7 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-## courses
-
 ## supervised theses
 - TODO

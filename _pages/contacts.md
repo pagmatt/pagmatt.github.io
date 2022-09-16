@@ -2,6 +2,8 @@
 layout: page
 title: Contacts
 permalink: /contacts/
+nav: true
+nav_order: 4
 
 You can find me on:
 [Github](https://github.com/pagmatt)
