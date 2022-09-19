@@ -102,8 +102,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: 
 # your blog must have a name for it to show up in the nav bar
-# blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-# blog_description: a simple whitespace theme for academics
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Just a space where I share my thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
