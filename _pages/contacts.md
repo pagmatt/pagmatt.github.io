@@ -4,8 +4,9 @@ title: Contacts
 permalink: /contacts/
 nav: true
 nav_order: 4
+---
 
-You can find me on:
+### You can find me on:
 [Github](https://github.com/pagmatt)
 [Gitlab](https://gitlab.com/pagmatt)
 [LinkedIn](https://www.linkedin.com/in/matteo-pagin-4a7b82171/)
