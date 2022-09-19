@@ -3,7 +3,7 @@ layout: page
 title: Contacts
 permalink: /contacts/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 You can find me on:
